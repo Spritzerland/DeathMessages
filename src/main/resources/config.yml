@@ -393,6 +393,7 @@ death-messages:
       - "&3%player%&4 was got massacared by &6Wither"
       - "&3%player%&4 was slapped around by &6Wither"
       - "&3%player%&4 was pummeled into multiple parts by &6Wither"
+      - "&3%player%&4 fucked up their grief by &6Wither"
     WitherSpawnBoom: # Dies from wither spawn explosion
       - "&3%player%&4 was blown up by Wither"
     WitherSkeletonMelee:
@@ -686,6 +687,7 @@ death-messages:
       - "&3%player%&4 exploded themselves up with an &6end crystal"
       - "&3%player%&4 suffered from a huge fucking config issue with an &6end crystal"
       - "&3%player%&4 convinced into suicide by an &6end crystal"
+      - "&3%player%&4 allah akbar'd"
     Bed: # exploding beds or respawn anchors
       - "&3%player%&4 was killed by &6Intentional Game Design"
       - "&3%player%&4 just went kaboom with &6Intentional Game Design"
@@ -783,6 +785,7 @@ death-messages:
       - "&3%player%&4 went up in flames"
       - "&3%player%&4 was struck by lightning"
       - "&3%player%&4 just coped gods cock"
+      - "&3%player%&4 was not worthy"
     Starvation:
       - "&3%player%&4 starved to death"
       - "&3%player%&4 didn't eat enough food"
@@ -797,6 +800,7 @@ death-messages:
     CrammingKill:
       - "&3%player%&4 was squished too much"
       - "&3%player%&4 was squished to death"
+      - "&3%player%&4 was suffocated by a submissive obese femboy"
     Void:
       - "&3%player%&4 fell out of the world"
       - "&3%player%&4 forgot the world ends"
@@ -843,6 +847,7 @@ death-messages:
       - "&3%player%&4 fell into a patch of fire"
     FallCacti:
       - "&3%player%&4 fell arse first on a patch of cacti"
+      - "&3%player%&4 tried hard enough and fucked a cactus"
     FallBerryBush:
       - "&3%player%&4 fell into a sweet berry bush"
     FallKill:
